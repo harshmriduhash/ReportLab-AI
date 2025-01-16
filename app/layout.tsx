@@ -14,8 +14,8 @@ const geistMono = Geist_Mono({
 });
 
 export const metadata: Metadata = {
-  title: 'ReportLab AI - Medical Report Analysis',
-  description: 'Understand your medical reports with AI-powered analysis',
+  title: "ReportLab AI - Medical Report Analysis",
+  description: "Understand your medical reports with AI-powered analysis",
 };
 
 export default function RootLayout({
